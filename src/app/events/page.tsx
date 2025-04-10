@@ -161,28 +161,4 @@ export default function Events() {
   useEffect(() => {
     setMounted(true);
   }, []);
-
-  return (
-    <div className="min-h-screen bg-black text-white">
-      <div className="max-w-6xl mx-auto px-4 pt-24 pb-8">
-        <motion.h1
-          initial={{ opacity: mounted ? 0 : 1, y: mounted ? -20 : 0 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-          className="text-4xl font-bold mb-2 text-center"
-        >
-          Events & Timeline
-        </motion.h1>
-        <motion.p
-          initial={{ opacity: mounted ? 0 : 1 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.6, delay: 0.2 }}
-          className="text-zinc-400 text-center max-w-2xl mx-auto mb-16"
-        >
-          A chronological journey through my career milestones and achievements.
-        </motion.p>
-      </div>
-      <Timeline data={timelineData} />
-    </div>
-  );
 }
