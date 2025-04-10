@@ -23,7 +23,7 @@ const timelineData = [
               alt="SIH 2024 Logo"
               width={500}
               height={300}
-              className="w-full h-auto"
+              className="w-full h-auto scale-90"
             />
           </div>
         </div>
@@ -59,7 +59,7 @@ const timelineData = [
               alt="Hacktoberfest Badge"
               width={500}
               height={300}
-              className="w-full h-auto"
+              className="w-full h-auto scale-90"
             />
           </div>
         </div>
@@ -92,7 +92,7 @@ const timelineData = [
               alt="AI/ML Hack Logo"
               width={500}
               height={300}
-              className="w-full h-auto"
+              className="w-full h-auto scale-90"
             />
           </div>
         </div>
