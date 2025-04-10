@@ -21,8 +21,8 @@ const timelineData = [
             <Image
               src="https://imgs.search.brave.com/UJnfIwgtGpWWCsUofVJPurvCxI-IB3XRUjHJnvjrnuQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjM0ZDE5MTJj/NzAzMDI1M2U3M2Qy/OWYxZWEzOTc4Yjdm/NDE5MzVhMTgyODE3/ZGVhYzU2NzRmMzVl/ZjkxMDZkZS93d3cu/c2loLmdvdi5pbi8"
               alt="SIH 2024 Logo"
-              width={500}
-              height={300}
+              width={50}
+              height={30}
               className="w-full h-auto scale-90"
             />
           </div>
@@ -57,8 +57,8 @@ const timelineData = [
             <Image
               src="https://imgs.search.brave.com/m2bIDxzTfHtZBfj5CHI9ROcPzBB8C6ldMPNDfgss-wI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdjL0dvb2dsZV9T/dW1tZXJfb2ZfQ29k/ZV9zdW5fbG9nb18y/MDIyLnN2Zw"
               alt="Hacktoberfest Badge"
-              width={500}
-              height={300}
+              width={50}
+              height={30}
               className="w-full h-auto scale-90"
             />
           </div>
@@ -90,8 +90,8 @@ const timelineData = [
             <Image
               src="https://imgs.search.brave.com/tJanJloOLAaC57AWKuHZ6cFiQvBV7vxnbgf-ISBaD7A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTZkMjY2NjIz/MGVlZTc2NmUxOTEx/ZjIwMWZlMDI1YTAx/N2Q1ODM5MmFiMTk0/MWQ3MDJmNDAzMzk1/YTdhMWEwOC9zdHJl/YW1saXQuaW8v"
               alt="AI/ML Hack Logo"
-              width={500}
-              height={300}
+              width={50}
+              height={30}
               className="w-full h-auto scale-90"
             />
           </div>
